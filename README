@@ -3,8 +3,6 @@
 This objective of this project is a simple web-based financial calculation 
 tool leveraged by GPU and/or cloud computing resources.
 
-The current customer is King Lip of Baker Avenue Asset Management.
-
 The deliverables are as follows:
 	- performance metrics for market sentiment and RSI calculations
 	- specifications for web interface providing access to fincalc tools
